@@ -1,5 +1,5 @@
 <div align="center">
-  <img style="max-width: 50%; max-height: 50%;"src="banner.png" />
+  <img style="max-width: 50%; max-height: 50%;"src="profile/banner.png" />
   <p>
     A semi-automated framework for the design and implementation of Blockchain applications
   </p>
@@ -14,7 +14,7 @@ Harmonica (BlockcHain fRaMewOrk for the desigN and Implementation of deCentraliz
 A knowledge base, formalized as an ontology, has also been designed to support the two different tools. The Figure 1 shows a graphical organization of the project:
 
 <div align="center">
-  <img style="max-width: 100%; max-height: 50%;"src="framework.png" />
+  <img style="max-width: 100%; max-height: 50%;"src="profile/framework.png" />
   <br/>
   <i>Figure 1: Framework organization. Orange artifacts have been implemented in their first version, and red artifacts are in design or development.
   </i>
