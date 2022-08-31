@@ -27,7 +27,8 @@ If you want to learn more on those, feel free to read the project publications b
 
 ## Publications
 
-- (EN) Six, N., Herbaut, N., Lopez-Herrejon, R.E. & Salinesi, C. (2022). Using software product lines to create blockchain products: application to supply chain traceability. Accepted for publication at SPLC'22.
+- (EN) Six, N., Correa-Restrepo, C., Herbaut, N., Calinesi, C., "An ontology for software patterns: application to blockchain-based software development." Accepted for publication at EDOC'22 Forum.
+- (EN) Six, N., Herbaut, N., Lopez-Herrejon, R.E. & Salinesi, C. (2022). Using software product lines to create blockchain products: application to supply chain traceability. 
 - (EN) Six, N., Herbaut, N., & Salinesi, C. (2022). Blockchain software patterns for the design of decentralized applications: A systematic literature review. Blockchain: Research and Applications, 100061.
 - (EN) Six, N., Herbaut, N., & Salinesi, C. (2021). Harmonica: A Framework for Semi‐automated Design and Implementation of Blockchain Applications. INSIGHT, 24(4), 25-27.
 - (FR) Six, N., Herbaut, N., & Salinesi, C. (2021). BLADE: Un outil d’aide à la décision automatique pour guider le choix de technologie Blockchain. Revue ouverte d’ingénierie des systèmes d’information, 2(1).
